@@ -2,7 +2,7 @@ This is my first ML project. My goal for this project is to use VAE and generate
 
 Results\
 
-![](https://github.com/mifanbing/poseVAE/blob/main/result_15.png)   ![](https://github.com/mifanbing/poseVAE/blob/main/result_17.png) ![](https://github.com/mifanbing/poseVAE/blob/main/ronaldo.png)
+![](https://github.com/mifanbing/poseVAE/blob/main/result_15.png) ![](https://github.com/mifanbing/poseVAE/blob/main/result_17.png) ![](https://github.com/mifanbing/poseVAE/blob/main/ronaldo.png)
 
 The face is blurry, body and pose are more clear, and the jerseys are recognizable (Juventus and Real Madrid).
 
